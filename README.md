@@ -4,7 +4,7 @@
 
 
 
-Image classifier trained on custom dataset of paintings from vincent van gogh and edvard munch with fastai. Created as a demo for Gradio and HuggingFace Spaces."
+Image classifier trained on custom dataset of paintings from Vincent Van Gogh and Edvard Munch with fastai. Created as a demo for Gradio and HuggingFace Spaces."
 
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-brightgreen)](https://huggingface.co/spaces/danie94-lml/van_gogh_or_munch)[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
